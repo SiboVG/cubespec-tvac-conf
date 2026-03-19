@@ -1,3 +1,7 @@
 # PyCharm IDE
 
 .idea
+
+service_registry.db
+service_registry.db-shm
+service_registry.db-wal
